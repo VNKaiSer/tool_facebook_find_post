@@ -1,0 +1,7 @@
+selenium
+beautifulsoup4
+requests
+requests==2.31.0
+selenium-wire
+blinker==1.4
+setuptools
